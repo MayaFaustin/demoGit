@@ -3,5 +3,6 @@ public class Main {
         System.out.println("Hello world!");
 
         String iThinkCodingIs = ("Interesting so far");
+        Boolean doYouGuysLikeItSoFar = true;
     }
 }
